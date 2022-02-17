@@ -32,7 +32,7 @@
     }
   },
   "dependencies": {
-    "@babel/runtime": "^7.16.7",
+    "@babel/runtime": "^7.17.2",
     "request": "^2.88.2",
     "request-promise": "^4.2.6"
   },
