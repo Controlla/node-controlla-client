@@ -43,7 +43,7 @@
     "@babel/preset-env": "^7.20.2",
     "@babel/register": "^7.21.0",
     "@commitlint/cli": "^17.5.1",
-    "@commitlint/config-conventional": "^17.4.4",
+    "@commitlint/config-conventional": "^17.6.6",
     "babel-plugin-add-module-exports": "^1.0.4",
     "chai": "^4.3.7",
     "chai-as-promised": "^7.1.1",
